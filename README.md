@@ -12,8 +12,9 @@
   <img src='https://i.imgur.com/36AGb0R.png' height='50px'>
   <img src='https://i.imgur.com/cxpwb2C.png' height='50px'>
   <img src='https://i.imgur.com/1efgMO7.png' height='50px'>
-
+<br>
+<img src='https://github-readme-stats.vercel.app/api?username=nosoyz&show_icons=true&theme=tokyonight'>
 <h2 align="center">Repositorios anclados</h2>
-  <img src='https://github-readme-stats.vercel.app/api?username=nosoyz&show_icons=true&theme=tokyonight'>
+
 <p align="center">Aquí están mis mejores proyectos subidos a la plataforma.</p> <p
 
