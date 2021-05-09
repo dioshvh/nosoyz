@@ -16,4 +16,4 @@
 <h2 align="center">Repositorios anclados</h2>
 <p align="center">Aquí están mis mejores proyectos subidos a la plataforma.</p> <p
 
-->![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nosoyz&show_icons=true&theme=tokyonight)<-
+->![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nosoyz&show_icons=true&theme=tokyonight)
