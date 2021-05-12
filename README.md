@@ -1,8 +1,8 @@
 <h1 align="center">Biografía</h1>
 <p align="center">🌙 Nombre real: Jose Antonio | 🌟 Edad: 18 años</p>
 <p align="center">Amante de la tecnología 📺, <p>
-<p el diseño 🎨, los juegos 🎮,la comida 🍕, <p>
-<p y la ciberseguridad 🔐. <p>
+<p align="center"> el diseño 🎨, los juegos 🎮,la comida 🍕, <p>
+<p align="center"> y la ciberseguridad 🔐. <p>
 <h2 align="center">Habilidades</h2>
 <p align="center">Echa un vistazo a mis mejores habilidades.</p> <p
 
