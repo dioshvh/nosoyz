@@ -1,7 +1,7 @@
 <h1 align="center">Biografía</h1>
 <p align="center">
   
-<object type="text/html" data="https://glitch.com/~lying-colossal-galleon">
+<object type="text/html" data="https://lying-colossal-galleon.glitch.me">
 </object>
 
 <p align="center">
