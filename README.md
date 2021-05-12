@@ -1,6 +1,6 @@
 <h1 align="center">Biografía</h1>
 <p align="center">
- <img src='https://glitch.com/~lying-colossal-galleon'>
+ <img src='https://lying-colossal-galleon.glitch.me'>
 
 <p align="center">
   <img src='https://i.imgur.com/ELC5E2x.png' height='50px'>
