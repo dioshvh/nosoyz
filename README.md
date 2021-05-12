@@ -1,6 +1,6 @@
 <h1 align="center">Biografía</h1>
 <p align="center">
-<img src='https://i.imgur.com/akBC5yy.png'>
+<img src='https://i.imgur.com/yKcsjGx.png'>
 <p align="center">
   <img src='https://i.imgur.com/ELC5E2x.png' height='50px'>
   <img src='https://i.imgur.com/OS6L9MW.png' height='50px'>
