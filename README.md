@@ -1,6 +1,6 @@
 <h1 align="center">Biografía</h1>
 <p align="center">
-<iframe allow="geolocation; microphone; camera; midi; vr; encrypted-media" src="https://lying-colossal-galleon.glitch.me/" sandbox="allow-scripts allow-modals allow-forms allow-same-origin" data-testid="app-preview-iframe" title="Preview of lying-colossal-galleon"></iframe>
+<div class="iframe-wrapper"><iframe allow="geolocation; microphone; camera; midi; vr; encrypted-media" src="https://lying-colossal-galleon.glitch.me/" sandbox="allow-scripts allow-modals allow-forms allow-same-origin" data-testid="app-preview-iframe" title="Preview of lying-colossal-galleon"></iframe>
 
 <p align="center">
   <img src='https://i.imgur.com/ELC5E2x.png' height='50px'>
