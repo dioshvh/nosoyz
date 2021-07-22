@@ -1,6 +1,4 @@
 <h1 align="center">Biografía</h1>
-<p align="center">
-  <img src='https://i.imgur.com/lGX0hAC.png'>
 <br>
   <img src='https://github-readme-stats.vercel.app/api?username=nosoyz&show_icons=true&theme=tokyonight'>
 
