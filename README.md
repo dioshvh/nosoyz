@@ -12,6 +12,5 @@
   <img src='https://i.imgur.com/cxpwb2C.png' height='50px'>
   <img src='https://i.imgur.com/1efgMO7.png' height='50px'>
  
-<h2 align="center">Repositorios anclados</h2>
-<p align="center">Aquí están mis mejores proyectos subidos a la plataforma.</p> <p
+
 
