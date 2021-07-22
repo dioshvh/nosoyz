@@ -1,4 +1,5 @@
-<h1 align="center">Biografía</h1>
+<h1 align="center">Biografía</h1><p align="center">
+
 <br>
   <img src='https://github-readme-stats.vercel.app/api?username=nosoyz&show_icons=true&theme=tokyonight'>
 
